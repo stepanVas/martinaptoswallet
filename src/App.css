@@ -1,0 +1,11 @@
+a, input, textarea {
+  display: block;
+}
+
+textarea {
+  border: 1px solid #ccc;
+  min-height: 50vh;
+  outline: 0;
+  padding: 0;
+  width: 100%;
+}
